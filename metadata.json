@@ -1,0 +1,7 @@
+{
+  "name": "PixelCraft Odyssey: Survival 2D",
+  "description": "Game pixel art 2D open-world survival dengan sistem crafting, housing, bioma, bertani, beternak, memancing, toko pemain, guild, voice note, dan kontrol sentuh satu tangan.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
